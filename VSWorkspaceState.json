@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mobile",
+    "\\mobile\\android",
+    "\\mobile\\android\\app",
+    "\\mobile\\android\\app\\src",
+    "\\mobile\\android\\app\\src\\main",
+    "\\mobile\\android\\app\\src\\main\\res",
+    "\\mobile\\android\\app\\src\\main\\res\\values",
+    "\\mobile\\ios",
+    "\\mobile\\ios\\Runner"
+  ],
+  "SelectedNode": "\\mobile\\android\\app\\src\\main\\AndroidManifest.xml",
+  "PreviewInSolutionExplorer": false
+}
